@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/prova/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/prova/static/js/main.2f1be695.chunk.js",
+    "main.js.map": "/prova/static/js/main.2f1be695.chunk.js.map",
+    "runtime-main.js": "/prova/static/js/runtime-main.a9484b88.js",
+    "runtime-main.js.map": "/prova/static/js/runtime-main.a9484b88.js.map",
+    "static/css/2.4d9996cd.chunk.css": "/prova/static/css/2.4d9996cd.chunk.css",
+    "static/js/2.2ec0e308.chunk.js": "/prova/static/js/2.2ec0e308.chunk.js",
+    "static/js/2.2ec0e308.chunk.js.map": "/prova/static/js/2.2ec0e308.chunk.js.map",
+    "static/js/3.ff321da6.chunk.js": "/prova/static/js/3.ff321da6.chunk.js",
+    "static/js/3.ff321da6.chunk.js.map": "/prova/static/js/3.ff321da6.chunk.js.map",
+    "index.html": "/prova/index.html",
+    "static/css/2.4d9996cd.chunk.css.map": "/prova/static/css/2.4d9996cd.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/prova/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.2ec0e308.chunk.js.LICENSE.txt": "/prova/static/js/2.2ec0e308.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9484b88.js",
+    "static/css/2.4d9996cd.chunk.css",
+    "static/js/2.2ec0e308.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2f1be695.chunk.js"
+  ]
+}
